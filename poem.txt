@@ -2,6 +2,8 @@ The rainbow
 purple
 pink
 orange
+yellow
+green
 blue
 red
 these are the colours of the rainbom
