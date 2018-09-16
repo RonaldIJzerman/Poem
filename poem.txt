@@ -1,9 +1,11 @@
 The rainbow
 purple
 pink
-orange
-yellow
-green
 blue
+green
+yellow
+orange
 red
 these are the colours of the rainbom
+
+Changes to see how it works
